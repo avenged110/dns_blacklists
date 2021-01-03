@@ -1,3 +1,4 @@
+0.0.0.0 load77.exelator.com
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 hdyoutubedownloaderfree.com
 0.0.0.0 p.ad.gt
