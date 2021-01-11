@@ -1,3 +1,4 @@
+0.0.0.0 analytics.intelliscapesolutions.com
 0.0.0.0 overlay-track.sailthru.cloud
 0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 load77.exelator.com
@@ -26899,8 +26900,6 @@
 0.0.0.0 felixcarpetcleaning.com
 0.0.0.0 ferienwohnung-malcesine.de
 0.0.0.0 fidiag.kymco.com
-0.0.0.0 files.constantcontact.com/0996938c001/6e8a2a4f-40ac-464f-9a70-7c67f0a0da19.pdf$all
-0.0.0.0 files.constantcontact.com/ee304de9001/7e533e73-e272-4a44-9d9e-138cab64bf19.docx$all
 0.0.0.0 files.fqapps.com
 0.0.0.0 files6.uludagbilisim.com
 0.0.0.0 filyoshaber.com
