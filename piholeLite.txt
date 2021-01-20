@@ -1,3 +1,7 @@
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 marmalade.adthrive.com
+0.0.0.0 marmalade.adthrive.com.lan
+0.0.0.0 logger.adthrive.com
 0.0.0.0 analytics.intelliscapesolutions.com
 0.0.0.0 overlay-track.sailthru.cloud
 0.0.0.0 vortex.hulu.com.akadns.net
