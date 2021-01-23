@@ -1,9 +1,13 @@
+0.0.0.0 analytic.rollout.io
+0.0.0.0 www.essentialaccessibility.com
+0.0.0.0 essentialaccessibility.com
+0.0.0.0 overlay-track.sailthru.cloud
+0.0.0.0 overlay-track-prod01.sailthru.cloud
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 marmalade.adthrive.com
 0.0.0.0 marmalade.adthrive.com.lan
 0.0.0.0 logger.adthrive.com
 0.0.0.0 analytics.intelliscapesolutions.com
-0.0.0.0 overlay-track.sailthru.cloud
 0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 load77.exelator.com
 0.0.0.0 ghb.adtelligent.com
@@ -28810,7 +28814,6 @@
 0.0.0.0 ads.joemonster.org
 0.0.0.0 site.johnlewis.com
 0.0.0.0 www.jscount.com
-0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 jsonip.com
 0.0.0.0 js.juicyads.com
 0.0.0.0 tracking.justpremium.com
