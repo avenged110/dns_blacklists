@@ -560,7 +560,6 @@
 0.0.0.0 exponential.com
 0.0.0.0 extra.thebigboss.org
 0.0.0.0 feedads.g.doubleclick.net
-0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 fusion.di.se
