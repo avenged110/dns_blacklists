@@ -1,3 +1,4 @@
+0.0.0.0 sponsored.bloomberg.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 www.essentialaccessibility.com
 0.0.0.0 essentialaccessibility.com
