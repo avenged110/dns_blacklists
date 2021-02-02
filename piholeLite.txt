@@ -1,4 +1,5 @@
 0.0.0.0 ap.spotify.com
+0.0.0.0 apresolve.spotify.com
 0.0.0.0 goldendev.win
 0.0.0.0 www.goldendev.win
 0.0.0.0 sublimetext.com
