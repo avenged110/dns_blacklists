@@ -1,3 +1,6 @@
+0.0.0.0 beacon.riskified.com
+0.0.0.0 tr.snapchat.com
+0.0.0.0 snapchat.com
 0.0.0.0 goldendev.win
 0.0.0.0 www.goldendev.win
 0.0.0.0 sublimetext.com
