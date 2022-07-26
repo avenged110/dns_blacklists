@@ -1,3 +1,11 @@
+0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 pixel.adsafeprotected.com
+0.0.0.0 static.adsafeprotected.com
+0.0.0.0 adsafeprotected.com
+0.0.0.0 anycast.static.adsafeprotected.com
+0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 bs.eyeblaster.akadns.net
+0.0.0.0 bsla.eyeblaster.akadns.net
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 tpsc-cac.doubleverify.com
