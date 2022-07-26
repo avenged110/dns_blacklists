@@ -61,7 +61,6 @@
 0.0.0.0 vae-bid.adsrvr.org
 0.0.0.0 ads-v-darwin.hulustream.com
 0.0.0.0 ads-v-darwin.hulu.com.c.footprint.net
-0.0.0.0 tpsc-uw2.doubleverify.com
 0.0.0.0 vfw.amazon-adsystem.com
 0.0.0.0 d1ykf07e75w7ss.cloudfront.net
 0.0.0.0 dnd1av4y9k5gc.cloudfront.net
@@ -278,7 +277,6 @@
 0.0.0.0 vid.connatix.com
 0.0.0.0 protocol.bidswitch.com
 0.0.0.0 beacon.riskified.com
-0.0.0.0 tr.snapchat.com
 0.0.0.0 snapchat.com
 0.0.0.0 goldendev.win
 0.0.0.0 www.goldendev.win
@@ -443,10 +441,8 @@
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.ne.jp
 0.0.0.0 doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 ir.doubleclick.net
 0.0.0.0 m.admob.com
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 q1mediahydraplatform.com
 0.0.0.0 s2.video.doubleclick.net
 0.0.0.0 srv.bebi.com
@@ -608,7 +604,6 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.yieldmo.com
 0.0.0.0 ads2.contentabc.com
-0.0.0.0 adsafeprotected.com
 0.0.0.0 adserver.adreactor.com
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechus.com
@@ -759,7 +754,6 @@
 0.0.0.0 bidvertiser.com
 0.0.0.0 bluekai.com
 0.0.0.0 bn-01.adtomafusion.com
-0.0.0.0 bs.serving-sys.com
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 buysellads.com
@@ -820,7 +814,6 @@
 0.0.0.0 clkmon.com
 0.0.0.0 clkrev.com
 0.0.0.0 clktag.com
-0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 coinurl.com
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 content.yieldmanager.edgesuite.net
@@ -895,7 +888,6 @@
 0.0.0.0 i.tapit.com
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 i.w.sandbox.inmobi.com
-0.0.0.0 ib.adnxs.com
 0.0.0.0 igpiphone.gameloft.com
 0.0.0.0 imads.integral-marketing.com
 0.0.0.0 images.intellitxt.com
@@ -987,11 +979,9 @@
 0.0.0.0 partners.swoop.com
 0.0.0.0 paypalssl.doubleclick.net
 0.0.0.0 pds.directrev.com
-0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.redditmedia.com
-0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pornhub.kolestence.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 prm.europacash.com
@@ -1386,7 +1376,6 @@
 0.0.0.0 analytics.prx.org
 0.0.0.0 analytics.publitas.com
 0.0.0.0 analytics.sleeknote.com
-0.0.0.0 analytics.tiktok.com
 0.0.0.0 anm.intelli-direct.com
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 ant.conversive.nl
@@ -2185,7 +2174,6 @@
 0.0.0.0 pixel.bilinmedia.net
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.staticworld.net
-0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pmg.ad-logics.com
 0.0.0.0 pn2.adserver.yahoo.com
@@ -8949,7 +8937,6 @@
 0.0.0.0 drowle.com
 0.0.0.0 ds.contextweb.com
 0.0.0.0 ds.onet.pl
-0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dt.linkpulse.com
 0.0.0.0 dub.mobileads.msn.com
 0.0.0.0 dy.admerize.be
@@ -11082,7 +11069,6 @@
 0.0.0.0 pussl22.com
 0.0.0.0 pwdplz.com
 0.0.0.0 pwwysydh.com
-0.0.0.0 px.moatads.com
 0.0.0.0 px10.net
 0.0.0.0 q.admob.com
 0.0.0.0 q.azcentral.com
@@ -11376,7 +11362,6 @@
 0.0.0.0 sayac.hurriyet.com.tr
 0.0.0.0 sayfabulunamadi.com
 0.0.0.0 sb.freeskreen.com
-0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sc1.admob.com
 0.0.0.0 sc9.admob.com
 0.0.0.0 scdown.qq.com
@@ -11692,7 +11677,6 @@
 0.0.0.0 stat3.888.ku6.com
 0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static.admaximize.com
-0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.adsonar.com
 0.0.0.0 static.adtaily.pl
 0.0.0.0 static.adwo.com
@@ -11982,7 +11966,6 @@
 0.0.0.0 tp2.beap.gemini.yahoo.com
 0.0.0.0 tpads.ovguide.com
 0.0.0.0 tpienquete.com
-0.0.0.0 tps.doubleverify.com
 0.0.0.0 tps10216.doubleverify.com
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tps31.doubleverify.com
@@ -12947,7 +12930,6 @@
 0.0.0.0 www.go-free-gifts.com
 0.0.0.0 www.gofreegifts.com
 0.0.0.0 www.goody-garage.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googlewordpad.info
 0.0.0.0 www.googmel.win
 0.0.0.0 www.gopopup.com
@@ -13617,7 +13599,6 @@
 0.0.0.0 z.blogads.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 z.dynad.net
-0.0.0.0 z.moatads.com
 0.0.0.0 z1.adserver.com
 0.0.0.0 za1.sierra-fox.com
 0.0.0.0 zabavazaodrasle.com
@@ -23551,7 +23532,6 @@
 0.0.0.0 deloo.de
 0.0.0.0 deloplen.com
 0.0.0.0 demandbase.com
-0.0.0.0 demdex.net
 0.0.0.0 deployads.com
 0.0.0.0 desertedbreath.com
 0.0.0.0 desertedrat.com
@@ -24720,7 +24700,6 @@
 0.0.0.0 secretivecub.com
 0.0.0.0 secretspiders.com
 0.0.0.0 securedopen-bp.com
-0.0.0.0 securemetrics.apple.com
 0.0.0.0 sedoparking.com
 0.0.0.0 sedotracker.com
 0.0.0.0 selectionsugar.com
@@ -30049,7 +30028,6 @@
 0.0.0.0 fast.nbcu.demdex.net
 0.0.0.0 fast.nbcots.demdex.net
 0.0.0.0 fast.nrjgroup.demdex.net
-0.0.0.0 cdn.doubleverify.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 hs.interpolls.com
 0.0.0.0 sr2.liveperson.net
@@ -34403,7 +34381,6 @@
 0.0.0.0 piwik.org
 0.0.0.0 hit.reference-sexe.com
 0.0.0.0 tracker.squidanalytics.com
-0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adv.440network.com
 0.0.0.0 fr.cim.clickintext.net
 0.0.0.0 fr.slidein.clickintext.net
@@ -36609,5 +36586,4 @@
 0.0.0.0 in.bantuan.linkedin.com
 0.0.0.0 engineering.linkedin.com
 0.0.0.0 eu-west-1.dc.ads.linkedin.com
-0.0.0.0 pixel.redditmedia.com
 0.0.0.0 emoji.redditmedia.com
