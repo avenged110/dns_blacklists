@@ -1,3 +1,9 @@
+0.0.0.0 cdn.doubleverify.com
+0.0.0.0 tps.doubleverify.com
+0.0.0.0 tpsc-cac.doubleverify.com
+0.0.0.0 tpsc-uw2.doubleverify.com
+0.0.0.0 doubleverify.com
+0.0.0.0 bs.serving-sys.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 gc.apple.com
 0.0.0.0 static-doubleclick-net.l.google.com
