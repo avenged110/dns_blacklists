@@ -16,7 +16,6 @@
 0.0.0.0 gc.apple.com
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 syndication.twitter.com
-0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 hb.minutemedia-prebid.com
 0.0.0.0 prebid.ioadx.com
 0.0.0.0 analytics-alv.google.com
