@@ -29964,7 +29964,6 @@
 0.0.0.0 adtgs.adk2.co
 0.0.0.0 cdn.adk2.co
 0.0.0.0 ad-media.xe.gr
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adreadytractions.com
 0.0.0.0 assets1.adroll.com
