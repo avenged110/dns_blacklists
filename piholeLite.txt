@@ -1,3 +1,5 @@
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 static.adsafeprotected.com
@@ -10832,6 +10834,7 @@
 0.0.0.0 pick-savings.com
 0.0.0.0 pickytime.com
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 chartbeat.net
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingfore.soso.com
 0.0.0.0 pink.habralab.ru
@@ -23340,6 +23343,20 @@
 0.0.0.0 casinotraffic.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 ai.branch.io
+0.0.0.0 api2.branch.io
+0.0.0.0 cdn.branch.io
+0.0.0.0 events.branch.io
+0.0.0.0 gdpr.branch.io
+0.0.0.0 go.branch.io
+0.0.0.0 growth.branch.io
+0.0.0.0 ssltest2.branch.io
+0.0.0.0 start.branch.io
+0.0.0.0 status.branch.io
+0.0.0.0 video.branch.io
+0.0.0.0 vpn2.branch.io
+0.0.0.0 vulcan.branch.io
+0.0.0.0 www2.branch.io
 0.0.0.0 cdn.freshmarketer.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn.keywee.co
