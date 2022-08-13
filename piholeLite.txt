@@ -1,3 +1,11 @@
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 play.google.com
+0.0.0.0 pro.imdb.com
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
+0.0.0.0 assoc-na.associates-amazon.com
+0.0.0.0 alexa-smart-nudge.amazon.com
+0.0.0.0 unagi.amazon.com
+0.0.0.0 largedoubly.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 amazonclix.com
@@ -232,7 +240,6 @@
 0.0.0.0 z-fe.amazon-adsystem.com
 0.0.0.0 z-in.amazon-adsystem.com
 0.0.0.0 tracking.whatcounts.com
-0.0.0.0 tracking.tenpubs.com
 0.0.0.0 8649c1.efeedbacktrk.com
 0.0.0.0 eventtracking.hubapi.com
 0.0.0.0 fp3.ads.stickyadstv.com.akadns.net
