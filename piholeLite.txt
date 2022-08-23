@@ -1,3 +1,10 @@
+0.0.0.0 musicstatus-us-w.edge-itunes-apple.com.akadns.net
+0.0.0.0 s3-iad-2.cf.hls.row.aiv-cdn.net
+0.0.0.0 ters.us-east-1.aiv-delivery.net
+0.0.0.0 us-west-2.new-telemetry.insights.video.a2z.com
+0.0.0.0 api.amazonalexa.com
+0.0.0.0 amazonalexa.com
+0.0.0.0 bob-dispatch-prod-na.amazon.com
 0.0.0.0 optimizationguide-pa.googleapis.com
 0.0.0.0 play.google.com
 0.0.0.0 pro.imdb.com
