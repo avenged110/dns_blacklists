@@ -1,3 +1,15 @@
+0.0.0.0 embed.podcasts.apple.com
+0.0.0.0 secure.gravatar.com
+0.0.0.0 readaloud.googleapis.com
+0.0.0.0 rcdn.kervinteractive.com
+0.0.0.0 config-chr.health.apple.com
+0.0.0.0 tr.iadskd.apple.com
+0.0.0.0 parking.godaddy.com
+0.0.0.0 cdn.adrise.tv
+0.0.0.0 analytics.lucid.app
+0.0.0.0 ads.nextdoor.com
+0.0.0.0 klaviyo.com
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 secureads.g.doubleclick.net.lan
@@ -320,7 +332,6 @@
 0.0.0.0 marmalade.adthrive.com.lan
 0.0.0.0 logger.adthrive.com
 0.0.0.0 analytics.intelliscapesolutions.com
-0.0.0.0 vortex.hulu.com.akadns.net
 0.0.0.0 load77.exelator.com
 0.0.0.0 ghb.adtelligent.com
 0.0.0.0 hdyoutubedownloaderfree.com
