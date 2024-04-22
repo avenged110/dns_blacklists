@@ -28098,7 +28098,6 @@
 0.0.0.0 ads.chango.com
 0.0.0.0 adunit.chango.com
 0.0.0.0 b.ensighten.com
-0.0.0.0 nexus.ensighten.com
 0.0.0.0 cs.exitmonitor.com
 0.0.0.0 stack9.collect.igodigital.com
 0.0.0.0 clicks.izea.com
