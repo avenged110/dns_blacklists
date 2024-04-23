@@ -1,3 +1,6 @@
+0.0.0.0 imasdk.googleapis.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 seg.ad.gt
 0.0.0.0 ad-thd-east.tagdelivery.com
 0.0.0.0 ads.us.nextdoor.com
 0.0.0.0 api.pp-prod-ads.ue2.breadgateway.net
@@ -471,6 +474,7 @@
 0.0.0.0 mesu-cdn.origin-apple.com.akadns.net
 0.0.0.0 swdist.apple.com.akadns.com
 0.0.0.0 swcdn.apple.com.akadns.com
+0.0.0.0 su.itunes-apple.com
 0.0.0.0 gdmf.apple.com
 0.0.0.0 gdmf.apple.com.akadns.net
 0.0.0.0 gdmf.v.aaplimg.com
