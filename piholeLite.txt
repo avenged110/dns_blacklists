@@ -1,3 +1,16 @@
+0.0.0.0 ads-fa-darwin.hulustream.com
+0.0.0.0 cws-sjc2-rdc2.conviva.com
+0.0.0.0 pixels.ad.gt.cdn.cloudflare.net
+0.0.0.0 seg.ad.gt.cdn.cloudflare.net
+0.0.0.0 id.hadron.ad.gt
+0.0.0.0 beacon.tru.am
+0.0.0.0 p.ad.gt.cdn.cloudflare.net
+0.0.0.0 ids.ad.gt
+0.0.0.0 cdn.adsninja.ca
+0.0.0.0 livepixel-production.bln.liveintent.com
+0.0.0.0 idx.cph.liveintent.com
+0.0.0.0 airlytics.airlock.twcmobile.weather.com
+0.0.0.0 app-analytics-services.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 seg.ad.gt
