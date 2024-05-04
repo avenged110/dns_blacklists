@@ -144,6 +144,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 gc.apple.com
+0.0.0.0 init.gc.apple.com
 0.0.0.0 static-doubleclick-net.l.google.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 hb.minutemedia-prebid.com
