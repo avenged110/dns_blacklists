@@ -1,3 +1,4 @@
+0.0.0.0 imasdk.google.com
 0.0.0.0 tpsc-video-uw.doubleverify.com
 0.0.0.0 tpsc-uw1.doubleverify.com
 0.0.0.0 enduser.adsrvr.org
