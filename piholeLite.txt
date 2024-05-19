@@ -1,3 +1,4 @@
+0.0.0.0 iadsdk.qtlcdn.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 us-west-tlx.3lift.com
 0.0.0.0 pdmp.dcapi.dmp.3lift.com
