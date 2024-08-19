@@ -1,3 +1,9 @@
+0.0.0.0 mv.outbrain.com
+0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 wave.outbrain.com
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 census-app-x.scorecardresearch.com
+0.0.0.0 td.doubleclick.net
 0.0.0.0 iadsdk.qtlcdn.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 us-west-tlx.3lift.com
