@@ -1,3 +1,10 @@
+0.0.0.0 trk.decide.dev
+0.0.0.0 smetrics.tmz.com
+0.0.0.0 sdk.iad-07.braze.com
+0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 consent-reporting.trustarc.com
+0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 mv.outbrain.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 wave.outbrain.com
