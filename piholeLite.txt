@@ -1,3 +1,4 @@
+0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 trk.decide.dev
 0.0.0.0 smetrics.tmz.com
 0.0.0.0 sdk.iad-07.braze.com
