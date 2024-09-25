@@ -7,7 +7,10 @@
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.entrust.net
 0.0.0.0 ocsp2.apple.com
+0.0.0.0 ocsp2.g.aaplimg.com
+0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 valid.apple.com
+0.0.0.0 valid-apple.g.aaplimg.com
 0.0.0.0 ocsp.digicert.cn
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 
@@ -72,7 +75,9 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 supportmetrics.apple.com
+0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.gc-apple.com.akadns.net
