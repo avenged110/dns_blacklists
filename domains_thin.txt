@@ -1,3 +1,9 @@
+0.0.0.0 www.temu.com
+0.0.0.0 temu.com
+0.0.0.0 dsp-cookie.adfarm1.adition.com
+0.0.0.0 c-bing-com.dual-a-0034.a-msedge.net
+0.0.0.0 global.px.quantserve.com
+0.0.0.0 cs.admanmedia.com
 0.0.0.0 reddit-image.s3.amazonaws.com
 0.0.0.0 ogads-pa.googleapis.com
 0.0.0.0 trk.decide.dev
