@@ -1,3 +1,5 @@
+0.0.0.0 x.klarnacdn.net
+0.0.0.0 na.klarnaevt.com
 0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 www.temu.com
 0.0.0.0 temu.com
