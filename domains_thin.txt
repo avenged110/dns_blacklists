@@ -1,3 +1,4 @@
+0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 www.temu.com
 0.0.0.0 temu.com
 0.0.0.0 dsp-cookie.adfarm1.adition.com
@@ -28255,7 +28256,6 @@
 0.0.0.0 tracking.clickmeter.com
 0.0.0.0 www.clickmeter.com
 0.0.0.0 cam.demdex.net
-0.0.0.0 dpm.demdex.net
 0.0.0.0 everydayhealth.demdex.net
 0.0.0.0 fairfaxau.demdex.net
 0.0.0.0 gm.demdex.net
