@@ -1,3 +1,6 @@
+0.0.0.0 www.ebayadservices.com
+0.0.0.0 ebayadservices.com
+0.0.0.0 browser-update.org
 0.0.0.0 assets.prod.leanplum.com
 0.0.0.0 imgssl.constantcontact.com
 0.0.0.0 events.launchdarkly.com
