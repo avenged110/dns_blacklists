@@ -1,3 +1,12 @@
 0.0.0.0 www.lightboxcdn.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 googletagmanager.com
+0.0.0.0 www.facebook.com
+0.0.0.0 static.xx.fbcdn.net
+0.0.0.0 scontent.xx.fbcdn.net
+0.0.0.0 edge-chat.facebook.com
+0.0.0.0 api-cf.affirm.com
+0.0.0.0 cdn.parsely.com
+0.0.0.0 jssdkcdns.mparticle.com
+0.0.0.0 jssdks.mparticle.com
+0.0.0.0 c2shb.pubgw.yahoo.com
