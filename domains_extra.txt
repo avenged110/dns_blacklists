@@ -10,3 +10,14 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 jssdks.mparticle.com
 0.0.0.0 c2shb.pubgw.yahoo.com
+0.0.0.0 api.rugarciap.com
+0.0.0.0 static.klaviyo.com
+
+0.0.0.0 dpm.demdex.net
+0.0.0.0 demdex.net
+0.0.0.0 demdex.com
+0.0.0.0 www.demdex.com
+0.0.0.0 crosspixel.demdex.net
+0.0.0.0 cdn.demdex.net
+0.0.0.0 adobe.demdex.net
+0.0.0.0 bestbuy.demdex.net
