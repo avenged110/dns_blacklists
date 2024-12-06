@@ -97,7 +97,7 @@
 ||iadsdk.apple.com.edgekey.net^
 ||advertising.apple.com^
 ||iad.apple.com^
-||iad-apple.com.akadns.net
+||iad-apple.com.akadns.net^
 ||advp.apple.com^
 ||qwapi.apple.com^
 ||qwape.com^
