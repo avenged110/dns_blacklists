@@ -88,6 +88,9 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.news.apple-dns.net
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 diagassets.apple.com
 0.0.0.0 cstat.apple.com
 0.0.0.0 metrics.mzstatic.com
