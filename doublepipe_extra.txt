@@ -15,5 +15,4 @@
 ||parsely.com^
 ||pinterest.com^
 ||syndication.twimg.com^
-||googleapis.com^
 ||onesignal.com^

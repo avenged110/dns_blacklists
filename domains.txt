@@ -1,3 +1,6 @@
+0.0.0.0 www.clientmetrics-pa.googleapis.com
+0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 fundingchoices.google.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 pixels.spotify.com
