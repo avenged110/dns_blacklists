@@ -1,3 +1,4 @@
+||xp.apple.com^
 ||iadsdk.apple.com^
 ||iadsdk.apple.com.edgekey.net^
 ||advertising.apple.com^

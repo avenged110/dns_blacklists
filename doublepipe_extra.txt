@@ -16,3 +16,5 @@
 ||pinterest.com^
 ||syndication.twimg.com^
 ||onesignal.com^
+||adobedtm.com^
+||pushio.com^

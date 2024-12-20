@@ -20,6 +20,7 @@
 ||mfadsrvr.com^
 ||adsrvr.org^
 ||ero-advertising.com^
+||eroadvertising.com^
 ||adssafeprotected.com^
 ||adsupply.com^
 ||adroll.com^
@@ -106,3 +107,9 @@
 ||pop6.com^
 ||marketo.net^
 ||302br.net^
+||tinypass.com^
+||piano.io^
+||adcom.akadns.net^
+||trustpilot.com^
+||actonservice.com^
+||monetate.net^

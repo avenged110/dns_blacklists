@@ -16,7 +16,6 @@
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 
 0.0.0.0 appldnld.apple.com
-0.0.0.0 daf.xp.apple.com
 0.0.0.0 gdmf.apple.com
 0.0.0.0 gg.apple.com
 0.0.0.0 gnf-mdn.apple.com
@@ -34,7 +33,6 @@
 0.0.0.0 swpost.apple.com
 0.0.0.0 swquery.apple.com
 0.0.0.0 swscan.apple.com
-0.0.0.0 xp.apple.com
 0.0.0.0 xp-cdn.apple.com
 0.0.0.0 updates.cdn-apple.com
 0.0.0.0 updates-http.cdn-apple.com
@@ -65,6 +63,7 @@
 0.0.0.0 ig.apple.com.v.aaplimg.com
 0.0.0.0 mesu.g.aaplimg.com
 0.0.0.0 swcdn.g.aaplimg.com
+0.0.0.0 updates.g.aaplimg.com
 0.0.0.0 updates-http.g.aaplimg.com
 
 0.0.0.0 lcdn-locator.apple.com
