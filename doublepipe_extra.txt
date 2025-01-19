@@ -1,7 +1,8 @@
 ||facebook.com^
-||facebook.net^
 ||facebook.com.edgesuite.net^
 ||facebook.com.edgekey.net^
+||facebook.net^
+||facebook.net.edgekey.net^
 ||fbcdn.net^
 ||demdex.com^
 ||demdex.net^
@@ -18,3 +19,4 @@
 ||onesignal.com^
 ||adobedtm.com^
 ||pushio.com^
+||ensighten.com^
