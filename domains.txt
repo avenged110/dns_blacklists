@@ -29802,3 +29802,5 @@
 0.0.0.0 realaudio.cimedia.net
 0.0.0.0 filter.adsparkmedia.net
 0.0.0.0 xml.adsparkmedia.net
+0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 browser.events.data.microsoft.com

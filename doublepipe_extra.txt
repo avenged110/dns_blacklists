@@ -21,3 +21,6 @@
 ||adobedtm.com^
 ||pushio.com^
 ||ensighten.com^
+||forter.com^
+||storage.googleapis.com^
+||spmailtechno.com^
