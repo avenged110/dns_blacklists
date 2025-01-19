@@ -9,6 +9,7 @@
 ||cloudflareinsights.com^
 ||online-metrix.net^
 ||googletagmanager.com^
+||googletagservices.com^
 ||affirm.com^
 ||klaviyo.com^
 ||lightboxcdn.com^
