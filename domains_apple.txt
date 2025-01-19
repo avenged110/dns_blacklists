@@ -3,10 +3,10 @@
 0.0.0.0 crl.entrust.net
 0.0.0.0 crl3.digicert.com
 0.0.0.0 crl4.digicert.com
-0.0.0.0 ocsp.apple.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.entrust.net
 0.0.0.0 ocsp.usertrust.com
+0.0.0.0 ocsp.apple.com
 0.0.0.0 ocsp2.apple.com
 0.0.0.0 ocsp2.g.aaplimg.com
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
@@ -17,6 +17,7 @@
 
 0.0.0.0 appldnld.apple.com
 0.0.0.0 gdmf.apple.com
+0.0.0.0 gdmf-ados.apple.com
 0.0.0.0 gg.apple.com
 0.0.0.0 gnf-mdn.apple.com
 0.0.0.0 gnf-mr.apple.com
@@ -102,6 +103,7 @@
 0.0.0.0 c.apple.com
 0.0.0.0 news-assets.apple.com
 0.0.0.0 fitness.apple.com
+0.0.0.0 vod-ap-amt.tv.apple.com
 0.0.0.0 amp-api.music.apple.com
 0.0.0.0 musicstatus.itunes.apple.com
 0.0.0.0 radio-activity.itunes.apple.com
@@ -127,3 +129,5 @@
 0.0.0.0 bpapi.apple.com
 0.0.0.0 cssubmissions.apple.com
 0.0.0.0 fba.apple.com
+0.0.0.0 comm-cohort.ess.apple.com
+0.0.0.0 comm-main.ess.apple.com
