@@ -110,7 +110,16 @@
 ||bugsnag.com^
 ||newrelic.com^
 ||linkedin.com^
+||wsdvs.com^
+||baishan-cloud.net^
+||bytetcdn.com^
+||worldfcdn.com^
+||bytewlb.akadns.net^
 ||tiktok.com^
+||tiktokcdn-us.com^
+||tiktokcdn.com^
+||tiktokcdn.com.edgesuite.net^
+||tiktokcdn.com.akamaized.net^
 ||tiktok.com.c.secure.footprint.net^
 ||tiktok.com.edgekey.net^
 ||tiktok.com.edgesuite.net^
@@ -171,3 +180,6 @@
 ||trysera.com^
 ||stnvideo.com^
 ||sendtonews.com^
+||returnpath.net^
+||vercel-insights.com^
+||kunlunsl.com^

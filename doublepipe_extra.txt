@@ -24,3 +24,9 @@
 ||forter.com^
 ||storage.googleapis.com^
 ||spmailtechno.com^
+||pinimg.com^
+||pinimg.com.edgekey.net^
+||sentry.io^
+||wallpapers.com^
+||maropost.com^
+||list-manage.com^

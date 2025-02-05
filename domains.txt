@@ -1,3 +1,16 @@
+0.0.0.0 api-lytics.macpaw.com
+0.0.0.0 a8clk.macpaw.com
+0.0.0.0 www.hollywoodlife.com
+0.0.0.0 hollywoodlife.com
+0.0.0.0 contributor.google.com
+0.0.0.0 donate.wikimedia.org
+0.0.0.0 foundation.wikimedia.org
+0.0.0.0 developer.wikimedia.org
+0.0.0.0 stats.wikimedia.org
+0.0.0.0 geoiplookup.wikimedia.org
+0.0.0.0 adtech.nflximg.net
+0.0.0.0 ae.nflximg.net
+0.0.0.0 improving.duckduckgo.com
 0.0.0.0 grow.gab.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 context.bestbuy.com
