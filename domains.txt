@@ -1889,6 +1889,7 @@
 0.0.0.0 sm45mailtrack.com
 0.0.0.0 smartstats.com
 0.0.0.0 smetrics.att.com
+0.0.0.0 smetrics.cox.com
 0.0.0.0 smetrics.tesco.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 snare.iesnare.com
@@ -29817,3 +29818,5 @@
 0.0.0.0 xml.adsparkmedia.net
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 analytics.twitter.com
+0.0.0.0 tag.getdrip.com

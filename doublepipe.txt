@@ -2,6 +2,7 @@
 ||amazon-adsystem.com^
 ||amazon-adsystems.com^
 ||amazon-adsystem.amazon.com^
+||telemetry.insights.video.a2z.com^
 ||ebayadservices.com^
 ||admanmedia.com^
 ||doubleclick.net^
@@ -26,6 +27,8 @@
 ||adsupply.com^
 ||adroll.com^
 ||carbonads.net^
+||omtrdc.net^
+||ss-omtrdc.net^
 ||addtoany.com^
 ||appboy-images.com^
 ||media.net^
@@ -183,3 +186,6 @@
 ||returnpath.net^
 ||vercel-insights.com^
 ||kunlunsl.com^
+||brandmetrics.com^
+||btloader.com^
+||id5-sync.com^

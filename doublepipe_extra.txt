@@ -19,6 +19,7 @@
 ||syndication.twimg.com^
 ||onesignal.com^
 ||adobedtm.com^
+||adobedtm.net^
 ||pushio.com^
 ||ensighten.com^
 ||forter.com^
