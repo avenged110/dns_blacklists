@@ -4,6 +4,7 @@
 0.0.0.0 crl3.digicert.com
 0.0.0.0 crl4.digicert.com
 0.0.0.0 ocsp.digicert.com
+0.0.0.0 ocsp.edge.digicert.com
 0.0.0.0 ocsp.entrust.net
 0.0.0.0 ocsp.usertrust.com
 0.0.0.0 ocsp.apple.com
@@ -60,6 +61,7 @@
 0.0.0.0 appldnld.apple.com.edgesuite.net
 0.0.0.0 appldnld.g.aaplimg.com
 0.0.0.0 gdmf.v.aaplimg.com
+0.0.0.0 gdmf-ados.v.aaplimg.com
 0.0.0.0 gg.apple.com.v.aaplimg.com
 0.0.0.0 ig.apple.com.v.aaplimg.com
 0.0.0.0 mesu.g.aaplimg.com
