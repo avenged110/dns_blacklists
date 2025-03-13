@@ -34,5 +34,6 @@
 ||gigya.com^
 ||hextom.com^
 ||hubspot.com^
+||hubspot.net^
 ||exct.net^
 ||salesforce.com^
