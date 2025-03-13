@@ -33,3 +33,6 @@
 ||list-manage.com^
 ||gigya.com^
 ||hextom.com^
+||hubspot.com^
+||exct.net^
+||salesforce.com^

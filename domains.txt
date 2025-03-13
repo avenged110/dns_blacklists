@@ -184,7 +184,6 @@
 0.0.0.0 mmx-ds.cdn.whatsapp.net
 0.0.0.0 armmf.adobe.com
 0.0.0.0 emoji.discourse-cdn.com
-0.0.0.0 ipinfo.io
 0.0.0.0 interaction.apester.com
 0.0.0.0 img.apester.com
 0.0.0.0 capi.connatix.com
@@ -1819,6 +1818,7 @@
 0.0.0.0 sm45mailtrack.com
 0.0.0.0 smartstats.com
 0.0.0.0 smetrics.att.com
+0.0.0.0 smetrics.att.com.edgekey.net
 0.0.0.0 smetrics.cox.com
 0.0.0.0 smetrics.tesco.com
 0.0.0.0 smetrics.washingtonpost.com
@@ -28346,5 +28346,5 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 tag.getdrip.com
-0.0.0.0 smetrics.cox.com
 0.0.0.0 ads.youtube.com
+0.0.0.0 alb.reddit.com

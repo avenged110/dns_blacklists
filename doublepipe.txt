@@ -130,6 +130,7 @@
 ||tiktok.com.edgesuite.net^
 ||tiktok.com.c.footprint.net^
 ||snapchat.com^
+||whatsapp.com^
 ||ads-twitter.com^
 ||disqus.com^
 ||temu.com^
@@ -234,3 +235,4 @@
 ||qualtrics.com.edgekey.net^
 ||openx.net^
 ||zooplus.it^
+||notion.so^
