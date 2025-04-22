@@ -1,6 +1,5 @@
 ||apple-dns.net^
 ||dns.apple.com^
-||dns.apple.com^
 ||dns.apple.com.v.aaplimg.com^
 ||xp.apple.com^
 ||iadsdk.apple.com^
