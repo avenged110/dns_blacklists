@@ -82,8 +82,6 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 supportmetrics.v.aaplimg.com
 0.0.0.0 metrics.mzstatic.com
-0.0.0.0 stats.gc.apple.com
-0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 init.gc.apple.com
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 iphonediags.apple.com
@@ -91,9 +89,6 @@
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 books-analytics-events.apple.com
-0.0.0.0 weather-analytics-events.news.apple-dns.net
-0.0.0.0 stocks-analytics-events.news.apple-dns.net
-0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 diagassets.apple.com
 0.0.0.0 cstat.apple.com
 0.0.0.0 metrics.mzstatic.com
@@ -102,7 +97,6 @@
 0.0.0.0 launch.apple.com
 0.0.0.0 banners.itunes.apple.com
 0.0.0.0 embed.podcasts.apple.com
-0.0.0.0 gc-apple.com.akadns.net
 0.0.0.0 c.apple.com
 0.0.0.0 news-assets.apple.com
 0.0.0.0 fitness.apple.com

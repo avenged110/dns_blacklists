@@ -1,3 +1,7 @@
+||apple-dns.net^
+||dns.apple.com^
+||dns.apple.com^
+||dns.apple.com.v.aaplimg.com^
 ||xp.apple.com^
 ||iadsdk.apple.com^
 ||iadsdk.apple.com.edgekey.net^
@@ -12,9 +16,8 @@
 ||iadcontent.apple.com^
 ||iadworkbench.apple.com^
 ||api-adservices.apple.com^
-||doh.dns.apple.com^
-||doh.dns.apple.com.v.aaplimg.com^
 ||health.apple.com^
 ||apple.news^
 ||gc.apple.com^
+||gc-apple.com.akadns.net^
 ||news.apple.com^
