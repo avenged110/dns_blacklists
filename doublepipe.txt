@@ -129,6 +129,11 @@
 ||tiktok.com.edgekey.net^
 ||tiktok.com.edgesuite.net^
 ||tiktok.com.c.footprint.net^
+||tiktokcdn-com.akamaized.net^
+||p16-tiktokcdn-com.akamaized.net^
+||tiktokv.com^
+||tiktokv.com.edgekey.net^
+||tiktokv.com.edgesuite.net^
 ||snapchat.com^
 ||whatsapp.com^
 ||ads-twitter.com^
@@ -236,3 +241,6 @@
 ||openx.net^
 ||zooplus.it^
 ||notion.so^
+||wellhello.com^
+||osano.com^
+||kampyle.com^

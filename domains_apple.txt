@@ -51,6 +51,7 @@
 0.0.0.0 swcdn.apple.com.akadns.com
 0.0.0.0 swdist.apple.com.akadns.com
 0.0.0.0 swscan-cdn.apple.com.akadns.net
+0.0.0.0 updates.cdn-apple.com.akadns.net
 0.0.0.0 updates-http.cdn-apple.com.akadns.net
 0.0.0.0 su-applak.itunes-apple.com.akadns.net
 0.0.0.0 su-cdn.itunes-apple.com.akadns.net
