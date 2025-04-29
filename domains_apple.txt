@@ -114,7 +114,6 @@
 0.0.0.0 axm-adm-enroll.apple.com
 0.0.0.0 axm-app.apple.com
 0.0.0.0 icons.axm-usercontent-apple.com
-0.0.0.0 identity.apple.com
 0.0.0.0 ppq.apple.com
 0.0.0.0 deviceenrollment.apple.com
 0.0.0.0 devicesservices-external.apple.com

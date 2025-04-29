@@ -39,3 +39,6 @@
 ||salesforce.com^
 ||sendgrid.net^
 ||iterable.com^
+||leanplum.com^
+||leanplum.com.cdn.cloudflare.net^
+||five9.com^

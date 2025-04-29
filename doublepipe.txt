@@ -94,8 +94,6 @@
 ||scorecardresearch.com^
 ||opentracker.net^
 ||clicktale.com^
-||leanplum.com^
-||leanplum.com.cdn.cloudflare.net^
 ||launchdarkly.com^
 ||effectivemeasure.net^
 ||4dsply.com^
