@@ -12,6 +12,8 @@
 ||googletagservices.com^
 ||affirm.com^
 ||klaviyo.com^
+||klaviyo-onsite.map.fastly.net^
+||klclick.com^
 ||lightboxcdn.com^
 ||mparticle.com^
 ||parsely.com^
@@ -38,7 +40,4 @@
 ||exct.net^
 ||salesforce.com^
 ||sendgrid.net^
-||iterable.com^
-||leanplum.com^
-||leanplum.com.cdn.cloudflare.net^
 ||five9.com^

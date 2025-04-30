@@ -1,4 +1,5 @@
 ||news.apple-dns.net^
+||mask.apple-dns.net^
 ||dns.apple.com^
 ||dns.apple.com.v.aaplimg.com^
 ||xp.apple.com^
@@ -17,6 +18,6 @@
 ||api-adservices.apple.com^
 ||health.apple.com^
 ||apple.news^
+||news.apple.com^
 ||gc.apple.com^
 ||gc-apple.com.akadns.net^
-||news.apple.com^
