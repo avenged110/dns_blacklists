@@ -32,7 +32,6 @@
 ||sentry.io^
 ||wallpapers.com^
 ||maropost.com^
-||list-manage.com^
 ||gigya.com^
 ||hextom.com^
 ||hubspot.com^
