@@ -21,3 +21,5 @@
 ||news.apple.com^
 ||gc.apple.com^
 ||gc-apple.com.akadns.net^
+||fitness.apple.com^
+||fitness-lb.apple.com.akadns.net^
