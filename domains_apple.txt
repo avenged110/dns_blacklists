@@ -94,6 +94,7 @@
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 netcts.cdn-apple.com
+0.0.0.0 netcts.cdn-apple.com.edgesuite.net
 
 0.0.0.0 launch.apple.com
 0.0.0.0 banners.itunes.apple.com

@@ -38,3 +38,8 @@
 ||salesforce.com^
 ||sendgrid.net^
 ||five9.com^
+||go-mpulse.net^
+||go-mpulse.net.edgekey.net^
+||syndigo.cloud^
+||brightcove.net^
+||brightcove.com^
