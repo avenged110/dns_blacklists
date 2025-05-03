@@ -21,6 +21,7 @@
 ||advertserve.com^
 ||advertising.com^
 ||adthrive.com^
+||adsmeasurement.com^
 ||adnxs.com^
 ||adsparkmedia.net^
 ||mfadsrvr.com^
@@ -34,6 +35,7 @@
 ||adroll.com^
 ||carbonads.net^
 ||omtrdc.net^
+||online-metrix.net^
 ||ss-omtrdc.net^
 ||addtoany.com^
 ||appboy-images.com^
@@ -146,7 +148,6 @@
 ||yandex.ru^
 ||baidu.com^
 ||gravatar.com^
-||spot.im^
 ||klarnacdn.net^
 ||klarnaevt.com^
 ||am15.net^
@@ -351,3 +352,10 @@
 ||smi2.net^
 ||enchantevent.com^
 ||onlinediscount2021.ru^
+||app-measurement.com^
+||adsensecustomsearchads.com^
+||fullstory.com^
+||xg4ken.com^
+||mindtake.com^
+||evidon.com^
+||evidon.com.edgekey.net^

@@ -2,6 +2,8 @@
 0.0.0.0 avx-prod-files.s3.us-west-2.amazonaws.com
 0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 play.google.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 analytics-alv.google.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 unagi.amazon.com
 0.0.0.0 imdb-video.media-imdb.com
@@ -16,7 +18,6 @@
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 geolocation-recommendations.shopifyapps.com
-0.0.0.0 cdn.optimizely.com
 0.0.0.0 c0.wp.com
 0.0.0.0 bat.bing.com
 0.0.0.0 a.pub.network
@@ -24,7 +25,6 @@
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 click.redditmail.com
-0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 analytics.bestbuy.com
 0.0.0.0 cdn.prod.metrics.imdb.com
@@ -45,7 +45,6 @@
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 smetrics.cox.com
 0.0.0.0 ap.lijit.com
-0.0.0.0 s.go-mpulse.net
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 context.bestbuy.com
 0.0.0.0 mail-ads.google.com
@@ -66,7 +65,6 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 ads.blogherads.com
 0.0.0.0 api.bounceexchange.com
-0.0.0.0 app-measurement.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 c.bing.com
 0.0.0.0 cdn.brcdn.com
@@ -74,7 +72,6 @@
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 foundation.wikimedia.org
 0.0.0.0 p.tvpixel.com
-0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixels.spotify.com
 0.0.0.0 smetrics.att.com
 0.0.0.0 static.hotjar.com
@@ -97,3 +94,4 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 www.goldendev.win
 0.0.0.0 www91.intel.com
+0.0.0.0 analytics-fe.digital-cloud.medallia.com

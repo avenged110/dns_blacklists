@@ -7,7 +7,6 @@
 ||demdex.com^
 ||demdex.net^
 ||cloudflareinsights.com^
-||online-metrix.net^
 ||googletagmanager.com^
 ||googletagservices.com^
 ||affirm.com^
