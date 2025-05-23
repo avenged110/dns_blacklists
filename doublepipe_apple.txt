@@ -23,3 +23,4 @@
 ||gc-apple.com.akadns.net^
 ||fitness.apple.com^
 ||fitness-lb.apple.com.akadns.net^
+||experiments.apple.com^

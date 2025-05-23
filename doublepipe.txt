@@ -7,12 +7,14 @@
 ||amazon-adsystems.com^
 ||amazon-adsystem.amazon.com^
 ||telemetry.insights.video.a2z.com^
+||advertising.amazon.dev^
 ||ebayadservices.com^
 ||admanmedia.com^
 ||doubleclick.net^
 ||doubleclick.com^
 ||googlesyndication.com^
 ||googleadservices.com^
+||suggestqueries.l.google.com^
 ||adservice.google.com^
 ||admob.com^
 ||ad-delivery.net^
