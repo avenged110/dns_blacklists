@@ -2,6 +2,7 @@
 ||mask.apple-dns.net^
 ||dns.apple.com^
 ||dns.apple.com.v.aaplimg.com^
+||doh-dns-apple-com.v.aaplimg.com^
 ||xp.apple.com^
 ||iadsdk.apple.com^
 ||iadsdk.apple.com.edgekey.net^
