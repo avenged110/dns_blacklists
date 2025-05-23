@@ -1,4 +1,5 @@
 ||news.apple-dns.net^
+||news-edge.fe2.apple-dns.net^
 ||mask.apple-dns.net^
 ||dns.apple.com^
 ||dns.apple.com.v.aaplimg.com^
