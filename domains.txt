@@ -68,3 +68,4 @@
 0.0.0.0 www91.intel.com
 0.0.0.0 analytics-fe.digital-cloud.medallia.com
 0.0.0.0 pixel-lb-1846267185.us-east-1.elb.amazonaws.com
+0.0.0.0 tag.wknd.ai

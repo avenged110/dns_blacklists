@@ -421,3 +421,15 @@
 ||clicktale.net^
 ||clicktale.net.edgekey.net^
 ||activitystream.com^
+||hsleadflows.net^
+||confection.io^
+||intergient.com^
+||webcontentassessor.com^
+||hs-analytics.net^
+||hs-banner.com^
+||msn.com^
+||ninemsn.com.au^
+||livemymsn.com^
+||optimizely.com^
+||optimizely.com.edgekey.net^
+||optimizely.appspot.com^

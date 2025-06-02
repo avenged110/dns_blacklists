@@ -44,3 +44,5 @@
 ||brightcove.net^
 ||brightcove.com^
 ||sail-horizon.com^
+||liveperson.net^
+||fuseplatform.net^
