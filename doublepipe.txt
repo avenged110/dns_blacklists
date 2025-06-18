@@ -115,7 +115,6 @@
 ||4dsply.com^
 ||zedo.com^
 ||onthe.io^
-||cookielaw.org^
 ||cookiepro.com^
 ||onetrust.com^
 ||skimresources.com^
@@ -376,6 +375,7 @@
 ||knotch.it^
 ||knotch-cdn.com^
 ||pix.pub^
+||broxxx.com^
 ||zeustechnology.com^
 ||bidswitch.net^
 ||splicky.com^
@@ -434,3 +434,17 @@
 ||optimizely.com.edgekey.net^
 ||optimizely.appspot.com^
 ||kmsmep.com^
+||quantcast.com^
+||quantcount.com^
+||analytics-sm.com^
+||cdndex.io^
+||onetrust.io^
+||okta.com^
+||yoyo.org^
+||qq.com^
+||djaxadserver.com^
+||adserver.com^
+||adserver.com.pl^
+||revive-adserver.com^
+||flux-adserver.com^
+||kadserver.com^
