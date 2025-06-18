@@ -47,4 +47,3 @@
 ||sail-horizon.com^
 ||liveperson.net^
 ||fuseplatform.net^
-||radar.io^
