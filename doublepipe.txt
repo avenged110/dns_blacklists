@@ -448,3 +448,6 @@
 ||revive-adserver.com^
 ||flux-adserver.com^
 ||kadserver.com^
+||4dex.io^
+||ipstack.com^
+||telemetry.mozilla.org^

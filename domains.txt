@@ -69,3 +69,4 @@
 0.0.0.0 analytics-fe.digital-cloud.medallia.com
 0.0.0.0 pixel-lb-1846267185.us-east-1.elb.amazonaws.com
 0.0.0.0 tag.wknd.ai
+0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
