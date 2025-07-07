@@ -447,3 +447,4 @@
 ||ipstack.com^
 ||telemetry.mozilla.org^
 ||forethought.ai^
+||crcldu.com^
