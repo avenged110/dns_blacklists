@@ -319,10 +319,6 @@
 ||fractionalmedia.com^
 ||bimbolive.com^
 ||kylelierman.com^
-||perimeterx.net^
-||px-cdn.net^
-||pxchk.net^
-||px-cloud.net^
 ||marketingautomation.services^
 ||analytics.edgekey.net^
 ||meetrics.net^
@@ -450,3 +446,4 @@
 ||4dex.io^
 ||ipstack.com^
 ||telemetry.mozilla.org^
+||forethought.ai^
